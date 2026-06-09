@@ -30,8 +30,8 @@ The dashboard helps visualize diversity, employee distribution, and workforce co
 <img width="1882" height="1043" alt="Screenshot 2026-06-09 154543" src="https://github.com/user-attachments/assets/0060eb87-cf09-476c-aebf-1e7a91e4c0a1" />
 
 
-
-
+## 📸 Dashboard Video Link
+https://www.linkedin.com/feed/update/urn:li:activity:7470084045956239361/
 
 ## 📈 Use Cases
 - Data source: HR dataset (CSV, Excel, or database connection)

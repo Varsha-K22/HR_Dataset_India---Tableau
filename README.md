@@ -24,8 +24,12 @@ The dashboard helps visualize diversity, employee distribution, and workforce co
 └── README.md            # Project documentation
 
 ## 📸 Dashboard Preview
-<img width="1643" height="851" alt="Screenshot 2026-06-07 111005" src="https://github.com/user-attachments/assets/f57a88ca-6355-40c3-94cb-2859772dd887" />
-<img width="1631" height="846" alt="Screenshot 2026-06-07 111023" src="https://github.com/user-attachments/assets/de9773ec-dc29-4459-871f-2482c389542c" />
+<img width="1858" height="873" alt="Screenshot 2026-06-09 154242" src="https://github.com/user-attachments/assets/254fc87c-2b90-496b-b74c-9c7a370b32d6" />
+
+
+<img width="1882" height="1043" alt="Screenshot 2026-06-09 154543" src="https://github.com/user-attachments/assets/0060eb87-cf09-476c-aebf-1e7a91e4c0a1" />
+
+
 
 
 
